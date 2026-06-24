@@ -1,10 +1,14 @@
 # Hi there, I'm Sanket Donga 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/sanket-donga-506b931b0)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)](https://github.com/Sanketdonga)
-<!--[![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge)](YOUR_PORTFOLIO_URL)-->
-[![LeetCode](https://img.shields.io/badge/LeetCode-yellow?style=for-the-badge\&logo=leetcode)](https://leetcode.com/u/sanket_donga)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge\&logo=gmail)](mailto:sanketdongasanket@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanket-donga-506b931b0)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanketdonga)
+
+<!--
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-FF6B35?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://sanketdonga.com)
+-->
+
+[![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sanket_donga)
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanketdongasanket@gmail.com)
 
 ---
 
