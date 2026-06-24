@@ -1,15 +1,16 @@
 # Hi there, I'm Sanket Donga 👋
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanket-donga-506b931b0)
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanketdonga)
+<p align="center">
+  <a href="https://linkedin.com/in/sanket-donga-506b931b0"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Sanketdonga"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 
-<!--
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-FF6B35?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://sanketdonga.com)
--->
+  <!--
+  <a href="https://sanketdonga.com"><img src="https://img.shields.io/badge/PORTFOLIO-FF6B35?style=for-the-badge&logo=firefox-browser&logoColor=white"></a>
+  -->
 
-[![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sanket_donga)
-[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanketdongasanket@gmail.com)
-
+  <a href="https://leetcode.com/u/sanket_donga"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
+  <a href="mailto:sanketdongasanket@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 ---
 
 ## 🚀 About Me
