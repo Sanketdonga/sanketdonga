@@ -1,7 +1,7 @@
 # Hi there, I'm Sanket Donga 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/sanket-donga-506b931b0)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)]([YOUR_GITHUB_URL](https://github.com/Sanketdonga))
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)](https://github.com/Sanketdonga)
 <!--[![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge)](YOUR_PORTFOLIO_URL)-->
 [![LeetCode](https://img.shields.io/badge/LeetCode-yellow?style=for-the-badge\&logo=leetcode)](https://leetcode.com/u/sanket_donga)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge\&logo=gmail)](mailto:sanketdongasanket@gmail.com)
@@ -218,7 +218,7 @@ I'm always open to discussing:
 
 💼 LinkedIn: https://linkedin.com/in/sanket-donga-506b931b0
 
-<!--🌐 Portfolio: sanketdonga.com-->
+<!--🌐 Portfolio: sanketdonga.com -->
 
 🐙 GitHub: github.com/Sanketdonga
 
