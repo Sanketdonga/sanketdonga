@@ -220,7 +220,7 @@ I'm always open to discussing:
 
 <!--🌐 Portfolio: sanketdonga.com -->
 
-🐙 GitHub: github.com/Sanketdonga
+🐙 GitHub: https://github.com/Sanketdonga
 
 ⚡ *"Build Scalable Systems. Solve Real Problems. Keep Learning."* ⚡
 
